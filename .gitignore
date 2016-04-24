@@ -1,0 +1,10 @@
+/mock-web/nbproject/
+/mock-srv/nbproject/
+/mock-repository/nbproject/
+/mock-web/target/
+/web/target/
+/srv/target/
+/dto/target/
+/model/target/
+/repository/target/
+/service/target/
